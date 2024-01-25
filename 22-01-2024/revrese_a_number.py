@@ -30,5 +30,5 @@ Sample Output 1
 
 1432
 '''
-num = 123456
+num = int(input())
 print(str(num)[::-1])
